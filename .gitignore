@@ -1,0 +1,4 @@
+/.nuget/*
+/packages/*
+/AutofacIdentityExample/bin/*
+/AutofacIdentityExample/obj/*
